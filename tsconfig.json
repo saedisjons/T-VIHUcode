@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "noImplicitAny": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "module": "es6",
+        "target": "es6",
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
